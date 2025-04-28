@@ -15,7 +15,7 @@ export default function FeaturesPage() {
             StudieBuddie Features
           </h1>
           <p className="mt-4 text-xl text-white/80 max-w-2xl mx-auto">
-            Discover how our app's powerful features can transform your study habits and academic performance.
+            Discover how our app&apos;s powerful features can transform your study habits and academic performance.
           </p>
         </div>
       </div>

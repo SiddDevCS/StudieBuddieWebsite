@@ -15,7 +15,7 @@ export default function ContactPage() {
             Contact Us
           </h1>
           <p className="mt-4 text-xl text-white/80 max-w-2xl mx-auto">
-            We're here to help with any questions or concerns about StudieBuddie
+            We&apos;re here to help with any questions or concerns about StudieBuddie
           </p>
         </div>
       </div>

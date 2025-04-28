@@ -33,9 +33,9 @@ export default function PrivacyPolicyPage() {
           <p>For the purposes of this Privacy Policy:</p>
           <ul className="list-disc pl-6 mt-4 space-y-2">
             <li><strong>Account</strong> means a unique account created for You to access our Service or parts of our Service.</li>
-            <li><strong>Affiliate</strong> means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.</li>
+            <li><strong>Affiliate</strong> means an entity that controls, is controlled by or is under common control with a party, where &quot;control&quot; means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.</li>
             <li><strong>Application</strong> refers to StudieBuddie, the software program provided by the Company.</li>
-            <li><strong>Company</strong> (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to StudieBuddie.</li>
+            <li><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to StudieBuddie.</li>
             <li><strong>Country</strong> refers to: Netherlands</li>
             <li><strong>Device</strong> means any device that can access the Service such as a computer, a cellphone or a digital tablet.</li>
             <li><strong>Personal Data</strong> is any information that relates to an identified or identifiable individual.</li>

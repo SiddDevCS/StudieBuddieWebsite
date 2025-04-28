@@ -147,7 +147,7 @@ export default function Home() {
                 </div>
               </div>
               <p className="mt-4 text-gray-600">
-                "StudieBuddie has completely transformed how I prepare for exams. The AI coach gives me personalized advice that actually works!"
+                &quot;StudieBuddie has completely transformed how I prepare for exams. The AI coach gives me personalized advice that actually works!&quot;
               </p>
             </div>
 
@@ -159,7 +159,7 @@ export default function Home() {
                 </div>
               </div>
               <p className="mt-4 text-gray-600">
-                "The focus timer has helped me stay on track with my studies. I'm much more productive now and my grades have improved!"
+                &quot;The focus timer has helped me stay on track with my studies. I&apos;m much more productive now and my grades have improved!&quot;
               </p>
             </div>
 
@@ -171,7 +171,7 @@ export default function Home() {
                 </div>
               </div>
               <p className="mt-4 text-gray-600">
-                "I love how StudieBuddie helps me organize my research and track my progress. It's been essential for my academic work."
+                &quot;I love how StudieBuddie helps me organize my research and track my progress. It&apos;s been essential for my academic work.&quot;
               </p>
             </div>
           </div>
